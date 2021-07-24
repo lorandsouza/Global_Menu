@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 This is an custon ui made for a retuarant app.
-![Screenshot_1627085439](https://user-images.githubusercontent.com/62112455/126858958-c72ebbcc-bfd2-4393-a827-9b11c8232331.png)
-<img width="194" alt="Screenshot 2021-07-24 054142" src="https://user-images.githubusercontent.com/62112455/126858979-a1fd0dfc-34d4-480a-962c-3fc163751857.png">
+![Screenshot_1627085435](https://user-images.githubusercontent.com/62112455/126859020-6f666896-13f2-408b-81d9-11ddc6bde888.png)
+
 
